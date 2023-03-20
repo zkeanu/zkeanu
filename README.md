@@ -1,5 +1,6 @@
 ### 🌱 I’m currently learning
 <div align="center"> <img src="https://metrics.lecoq.io/insights/Li-Keanu" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
 <!--
 **Li-Keanu/Li-Keanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
