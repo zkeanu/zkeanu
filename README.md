@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center"> <img src="https://metrics.lecoq.io/insights/Li-Keanu"> </div>
 <!--
 **Li-Keanu/Li-Keanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
