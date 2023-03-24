@@ -1,6 +1,6 @@
 ### 🌱 I’m currently learning!
 ### 😄 If you are breathing, it is not too late, get up and get going!
-> New York is 3 hours ahead of California,
+### New York is 3 hours ahead of California,
 
 > 纽约时间比加州时间早三个小时，
 
