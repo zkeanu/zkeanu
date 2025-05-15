@@ -1,6 +1,6 @@
 ## Hello Guys 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/zkeanu/zkeanu/blob/main/pic/pusheencode.gif" />
 
 ### I'm Zixiong Zhou
 
